@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(206, 169, 189);  
+    color: rgb(30, 24, 73);
+    font-family: unset;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: rgb(51, 80, 133);
+    text-decoration: dotted;
+
+}
+
+
+header img{
+    width: 300px;
+    height: 400px;
+}
+
+.center{
+    text-align: center;
+}
